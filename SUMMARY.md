@@ -1,3 +1,12 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Title Page](README.md)
+
+## Pokemon
+
+* [Zorua](pokemon/zorua.md)
+* [Zoroark](pokemon/zoroark.md)
+
+## Digimon
+
+* [Zudomon](digimon/zudomon.md)
