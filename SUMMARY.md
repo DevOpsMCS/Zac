@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Title Page](README.md)
+* [WikiTest - README](wikitest-readme.md)
 
 ## Pokemon
 
